@@ -1,7 +1,5 @@
 import random
 
-# L'ordinateur choisit un nombre secret, et tu dois le trouver !
-
 def jouer():
     print("=" * 40)
     print(" JEU DE DEVINETTE ")
